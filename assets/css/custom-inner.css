@@ -152,8 +152,12 @@ a.premium-btn:hover {
 }
 .btn,
 .card,
-.form-control {
+.form-control,
+select.form-control {
   border-radius: 0px !important;
+}
+.btn-rounded-circle {
+  border-radius: 50%;
 }
 /* Mobile Query */
 @media (max-width: 576px) {
