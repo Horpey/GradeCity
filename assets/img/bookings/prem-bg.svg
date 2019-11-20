@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="724" height="206" viewBox="0 0 724 206">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a76314"/>
+      <stop offset="0.384" stop-color="#ac6e25"/>
+      <stop offset="1" stop-color="#a36112"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a76314"/>
+      <stop offset="0.384" stop-color="#985200"/>
+      <stop offset="1" stop-color="#a36112"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.977" y1="0.039" x2="0.445" y2="0.538" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c78638"/>
+      <stop offset="0.698" stop-color="#a05e0f"/>
+      <stop offset="1" stop-color="#aa6616"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_367" data-name="Group 367" transform="translate(0 -858)">
+    <rect id="Rectangle_119" data-name="Rectangle 119" width="724" height="206" transform="translate(0 858)" fill="url(#linear-gradient)"/>
+    <path id="Intersection_5" data-name="Intersection 5" d="M0,156V12.983A116.566,116.566,0,0,1,163.133,156Z" transform="translate(0 908)" opacity="0.384" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_342" data-name="Ellipse 342" cx="48.5" cy="48.5" r="48.5" transform="translate(596 880)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
