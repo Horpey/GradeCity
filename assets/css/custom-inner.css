@@ -151,7 +151,8 @@ a.premium-btn:hover {
   margin-top: 34px;
 }
 .btn,
-.card {
+.card,
+.form-control {
   border-radius: 0px !important;
 }
 /* Mobile Query */
